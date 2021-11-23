@@ -1,2 +1,2 @@
 # MySQL
-<h3 style:"color:red;">MySQL</h3>
+<h3 style="color: red;">MySQL</h3>
